@@ -36,10 +36,10 @@ I'm **Sathish J**, a passionate **Full-Stack Web Developer** and **Open-Source C
 
 Feel free to explore my repositories and reach out for collaboration! 🌟
 
-<details>
-  <summary> My GitHub Stats</summary>
+<details style="text-align: center;">
+  <summary><strong>My GitHub Stats</strong></summary>
 
-  <div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <a href="https://fabianocouto-readme-stats.vercel.app/api?username=Sathish111j&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e">
       <img src="https://fabianocouto-readme-stats.vercel.app/api?username=Sathish111j&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width="49.6%" />
     </a>
@@ -48,9 +48,10 @@ Feel free to explore my repositories and reach out for collaboration! 🌟
     </a>
   </div>
 
-  <div align="center">
+  <div style="text-align: center;">
     <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sathish111j&show_icons=true&locale=en&layout=compact&title_color=7cfe9e&font_color=adbac7&bg_color=24292f">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathish111j&show_icons=true&locale=en&layout=compact&title_color=7cfe9e&font_color=adbac7&bg_color=24292f" alt="Sathish111j" />
     </a>
   </div>
 </details>
+
