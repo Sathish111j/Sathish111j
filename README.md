@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sathish J</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Hi there! 👋
+
+I'm Sathish111j, a passionate full-stack web developer and open-source contributor.
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on full-stack web development with React, Node.js, and Express.
+- 🌱 I'm an open-source contributor, always looking for exciting projects to contribute to.
+- 💻 I'm constantly learning and solving Data Structures and Algorithms on LeetCode.
+- 🤖 I'm passionate about machine learning and always exploring new concepts.
+- 🛠️ I'm currently diving into the world of DevOps to enhance my skills.
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,9 +30,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sathish-j-9bb492219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathish-j-9bb492219" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sathish_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sathish_j" height="30" width="40" /></a>
+</p>
 
-
----
+Feel free to explore my repositories and reach out for collaboration! 🌟
 
 <details>
   <summary>:zap: My GitHub Stats</summary>
