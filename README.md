@@ -31,11 +31,11 @@
   <a title="Github Readme Streak Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish111j&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="Sathish111j" width=49.79% />
   </a>
+<a title="Languages">
+    <a title="Github Readme Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish111j&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="Sathish111j" width=49.79% />
+  </a>
+  </a>
 </div>
 </details>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathish111j&show_icons=true&locale=en&layout=compact&title_color=7cfe9e" alt="sathish111j" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathish111j&show_icons=true&locale=en&title_color=7cfe9e" alt="sathish111j" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathish111j&fire=7cfe9e" alt="sathish111j" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathish111j&show_icons=true&locale=en&layout=compact&title_color=7cfe9e&font_color=adbac7&bg_color=24292f" alt="sathish111j" /></p>
