@@ -36,22 +36,21 @@ I'm **Sathish J**, a passionate **Full-Stack Web Developer** and **Open-Source C
 
 Feel free to explore my repositories and reach out for collaboration! 🌟
 
-<details style="text-align: center;">
-  <summary><strong>My GitHub Stats</strong></summary>
-
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <a href="https://fabianocouto-readme-stats.vercel.app/api?username=Sathish111j&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e">
-      <img src="https://fabianocouto-readme-stats.vercel.app/api?username=Sathish111j&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width="49.6%" />
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Sathish111j&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish111j&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="Sathish111j" width="49.79%" />
-    </a>
-  </div>
+<details>
+  <summary>:zap: My GitHub Stats</summary>
+  &emsp;
+<div>  
+  <a title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=Sathish111j&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width=49.6% />
+  </a>
+  <a title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish111j&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="Sathish111j" width=49.79% />
+  </a>
+</div>
+</details>
 
   <div style="text-align: center;">
     <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sathish111j&show_icons=true&locale=en&layout=compact&title_color=7cfe9e&font_color=adbac7&bg_color=24292f">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathish111j&show_icons=true&locale=en&layout=compact&title_color=7cfe9e&font_color=adbac7&bg_color=24292f" alt="Sathish111j" />
     </a>
   </div>
-</details>
+
 
