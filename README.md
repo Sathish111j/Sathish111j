@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Sathish111j, a passionate full-stack web developer and open-source contributor.
+I'm Sathish J, a passionate full-stack web developer and open-source contributor.
 
 ## 🚀 About Me
 
