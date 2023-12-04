@@ -37,7 +37,7 @@ I'm **Sathish J**, a passionate **Full-Stack Web Developer** and **Open-Source C
 Feel free to explore my repositories and reach out for collaboration! 🌟
 
 <details>
-  <summary>:zap: My GitHub Stats</summary>
+  <summary> My GitHub Stats</summary>
 
   <div align="center">
     <a href="https://fabianocouto-readme-stats.vercel.app/api?username=Sathish111j&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e">
