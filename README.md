@@ -6,7 +6,7 @@ I'm **Sathish J**, a passionate **Full-Stack Web Developer** and **Open-Source C
 - 🔭 **Currently Working On:** Full-stack web development with React, Node.js, and Express.
 - 🌱 **Open-Source:** Actively contributing to exciting projects.
 - 💻 **LeetCode Enthusiast:** Regularly practicing Data Structures and Algorithms.
-- 🤖 **Machine Learning Passionate:** Exploring new concepts.
+- 🤖 **Machine Learning Passionate:** Exploring new concepts and research works.
 - 🛠️ **Diving into DevOps:** Expanding my skill set in DevOps.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
