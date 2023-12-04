@@ -44,9 +44,10 @@ Feel free to explore my repositories and reach out for collaboration! 🌟
   </a>
   <a title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish111j&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="vishalsingh2972" width=49.79% />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Sathish111j&show_icons=true&locale=en&layout=compact&title_color=7cfe9e&font_color=adbac7&bg_color=24292f">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sathish111j&show_icons=true&locale=en&layout=compact&title_color=7cfe9e&font_color=adbac7&bg_color=24292f" alt="Sathish111j" />
-  </a>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Sathish111j&show_icons=true&locale=en&layout=compact&title_color=7cfe9e&font_color=ffffff&bg_color=24292f">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sathish111j&show_icons=true&locale=en&layout=compact&title_color=7cfe9e&font_color=ffffff&bg_color=24292f" alt="Sathish111j" />
+</a>
+
 </div>
 </details>
 
