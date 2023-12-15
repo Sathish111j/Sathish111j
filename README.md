@@ -31,7 +31,7 @@ I'm **Sathish J**, a passionate **Full-Stack Web Developer** and **Open-Source C
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathish-j-9bb492219) 
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/sathish_j)
+
 
 
 
