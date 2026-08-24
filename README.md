@@ -62,13 +62,6 @@ Diverse ensemble self-training framework for large-scale defect label generation
 IEEE APSCON 2025 (IIT Hyderabad)  
 AI-driven system for plant health monitoring, irrigation control, and disease classification with MobileNetV2 optimization.
 
----
-
-## GitHub Stats
-
-![Sathish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sathish111j&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sathish111j&theme=dark)
 
 ---
 
