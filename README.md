@@ -2,8 +2,6 @@
 
 Hi, I'm Sathish J. Software Development Engineer at Optum building scalable AI systems and full-stack products.
 
----
-
 ## About Me
 
 Software Development Engineer | AI/ML  | Full-Stack Developer
@@ -12,8 +10,6 @@ Passionate about crafting efficient backend systems, AI-powered solutions, and d
 
 - Published Researcher in ML & AIoT
 - Diving deep into system design and AI orchestration
-
----
 
 ## Skills
 
@@ -49,8 +45,6 @@ Passionate about crafting efficient backend systems, AI-powered solutions, and d
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-
----
 
 ## Published Research
 
